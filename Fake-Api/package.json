@@ -1,0 +1,19 @@
+{
+    "dependencies": {
+        "body-parser": "^1.20.2",
+        "cors": "^2.8.5",
+        "json-server": "^0.17.0",
+        "jsonwebtoken": "^9.0.2",
+        "uuid": "^9.0.1"
+    },
+    "name": "api-full-stack",
+    "version": "1.0.0",
+    "main": "server.js",
+    "type": "module",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Matheus Barros",
+    "license": "ISC",
+    "description": "Api gerenciamento de um site de catálogo de vaículos."
+}

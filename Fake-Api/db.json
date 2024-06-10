@@ -1,0 +1,1086 @@
+{
+  "users": [
+    {
+      "id": "13cdf36f-86c6-41c6-bc7f-d0128d6e1901",
+      "name": "Matheus Barros",
+      "email": "mat43214@gmail.com",
+      "password": "senha123",
+      "reset_token": "43012d5e-f506-4842-970a-548a6ce56b29",
+      "cpf": "049.494.493-54",
+      "cell": "88999999443",
+      "birthdate": "12/12/2000",
+      "description": "Desenvolvedor Web Full-Stack, tenho estudado programação com o auxílio do curso Web Full-Stack da Kenzie Academy Brasil, já tendo realizado mais de dez projetos dentre o Front end e Back end, com especialidade em React, Javascript Vanilla, express, PostgreSQL entre outras linguagens e bibliotecas. Busco minha oportunidade como desenvolvedor Full-Stack no mercado de trabalho.",
+      "type": "anunciante",
+      "address": [
+        {
+          "id": "78826546-f218-4d22-8c47-6353bd3764f5",
+          "cep": "62030-160",
+          "state": "Ceará",
+          "city": "Sobral",
+          "street": "Ceará",
+          "number": 85,
+          "complement": "Sobrado",
+          "userId": "13cdf36f-86c6-41c6-bc7f-d0128d6e1901"
+        }
+      ]
+    },
+    {
+      "id": "e4567890-12ef-6a23-3456-7890abcdef3",
+      "name": "Alice Johnson",
+      "email": "alicej@example.com",
+      "password": "password123",
+      "reset_token": "a123b456-c789-d012-e345-f67890abcdef",
+      "cpf": "234.567.890-12",
+      "cell": "97654321123",
+      "birthdate": "25/09/1989",
+      "description": "Especialista em marketing digital com foco em SEO e campanhas publicitárias em redes sociais.",
+      "type": "anunciante",
+      "address": [
+        {
+          "id": "98436546-b678-4f44-a987-6543efdcba98",
+          "cep": "05022-000",
+          "state": "São Paulo",
+          "city": "São Paulo",
+          "street": "Rua das Flores",
+          "number": "300",
+          "complement": "Apartamento 202",
+          "userId": "e4567890-12ef-6a23-3456-7890abcdef3"
+        }
+      ]
+    },
+    {
+      "id": "f1234567-89ab-cdef-0123-456789abcdef",
+      "name": "Lucas Silva",
+      "email": "lucassilva@example.com",
+      "password": "simplepass",
+      "reset_token": "1234abcd-5678-ef90-1234-567890abcdef",
+      "cpf": "345.678.901-23",
+      "cell": "934567890",
+      "birthdate": "15/03/1992",
+      "description": "Engenheiro de software com mais de 10 anos de experiência em desenvolvimento de sistemas complexos.",
+      "type": "anunciante",
+      "address": [
+        {
+          "id": "a123f456-7890-1234-5678-90abcdef1234",
+          "cep": "70040-010",
+          "state": "Distrito Federal",
+          "city": "Brasília",
+          "street": "Setor Comercial Sul",
+          "number": "500",
+          "complement": "Edifício Business",
+          "userId": "f1234567-89ab-cdef-0123-456789abcdef"
+        }
+      ]
+    },
+    {
+      "id": "1a2b3c4d-5e6f-7g8h-9i0j-1234567890ab",
+      "name": "Julia Carvalho",
+      "email": "juliac@example.com",
+      "password": "mypassword",
+      "reset_token": "4567abcd-8901-2345-6789-abcdef012345",
+      "cpf": "123.456.789-01",
+      "cell": "912345678",
+      "birthdate": "22/07/1987",
+      "description": "Gerente de Projetos com vasta experiência em liderança de equipes e gerenciamento de grandes projetos de TI.",
+      "type": "comprador",
+      "address": [
+        {
+          "id": "4567defg-8910-1234-5678-9abcdef01234",
+          "cep": "01311-000",
+          "state": "São Paulo",
+          "city": "São Paulo",
+          "street": "Avenida Paulista",
+          "number": "1000",
+          "complement": "Sala 1804",
+          "userId": "1a2b3c4d-5e6f-7g8h-9i0j-1234567890ab"
+        }
+      ]
+    },
+    {
+      "id": "2b3c4d5e-6f7g-8h9i-0j1k-2345678901bc",
+      "name": "Roberto Nunes",
+      "email": "roberton@example.com",
+      "password": "securepass123",
+      "reset_token": "5678defg-0123-4567-89ab-cdef01234567",
+      "cpf": "234.567.890-12",
+      "cell": "923456789",
+      "birthdate": "15/11/1990",
+      "description": "Analista Financeiro com foco em investimentos e análises de mercado.",
+      "type": "comprador",
+      "address": [
+        {
+          "id": "5678ghij-1234-5678-9abc-def012345678",
+          "cep": "30130-000",
+          "state": "Minas Gerais",
+          "city": "Belo Horizonte",
+          "street": "Rua da Bahia",
+          "number": "850",
+          "complement": "Sala 905",
+          "userId": "2b3c4d5e-6f7g-8h9i-0j1k-2345678901bc"
+        }
+      ]
+    },
+    {
+      "id": "3c4d5e6f-7g8h-9i0j-1k2l-3456789012cd",
+      "name": "Sofia Mendes",
+      "email": "sofiam@example.com",
+      "password": "password1",
+      "reset_token": "6789ghij-2345-6789-abcd-ef0123456789",
+      "cpf": "345.678.901-23",
+      "cell": "934567890",
+      "birthdate": "01/04/1995",
+      "description": "Dentista com mais de 5 anos de experiência em odontologia estética e restauradora.",
+      "type": "comprador",
+      "address": [
+        {
+          "id": "6789ijkl-3456-7890-abcd-ef1234567890",
+          "cep": "90200-000",
+          "state": "Rio Grande do Sul",
+          "city": "Porto Alegre",
+          "street": "Avenida Borges de Medeiros",
+          "number": "750",
+          "complement": "Clínica",
+          "userId": "3c4d5e6f-7g8h-9i0j-1k2l-3456789012cd"
+        }
+      ]
+    },
+    {
+      "id": "4d5e6f7g-8h9i-0j1k-2l3m-4567890123de",
+      "name": "Carlos Augusto",
+      "email": "carlosa@example.com",
+      "password": "simplepassword",
+      "reset_token": "7890ijkl-4567-8901-bcde-f01234567890",
+      "cpf": "456.789.012-34",
+      "cell": "945678901",
+      "birthdate": "29/02/1984",
+      "description": "CEO de uma startup de tecnologia com foco em soluções inovadoras para o comércio eletrônico.",
+      "type": "anunciante",
+      "address": [
+        {
+          "id": "7890jklm-5678-9012-cdef-012345678901",
+          "cep": "22290-160",
+          "state": "Rio de Janeiro",
+          "city": "Rio de Janeiro",
+          "street": "Avenida Atlântica",
+          "number": "1130",
+          "complement": "Andar 10",
+          "userId": "4d5e6f7g-8h9i-0j1k-2l3m-4567890123de"
+        }
+      ]
+    },
+    {
+      "id": "5e6f7g8h-9i0j-1k2l-3m4n-5678901234ef",
+      "name": "Fernanda Lima",
+      "email": "fernandal@example.com",
+      "password": "strongpassword",
+      "reset_token": "8901jklm-6789-0123-def0-123456789012",
+      "cpf": "567.890.123-45",
+      "cell": "956789012",
+      "birthdate": "14/05/1988",
+      "description": "Arquiteta especializada em projetos residenciais sustentáveis.",
+      "type": "comprador",
+      "address": [
+        {
+          "id": "8901klmn-7890-1234-ef01-234567890123",
+          "cep": "13092-500",
+          "state": "São Paulo",
+          "city": "Campinas",
+          "street": "Rua das Camélias",
+          "number": "250",
+          "complement": "Casa 12",
+          "userId": "5e6f7g8h-9i0j-1k2l-3m4n-5678901234ef"
+        }
+      ]
+    },
+    {
+      "id": "6f7g8h9i-0j1k-2l3m-4n5o-6789012345fg",
+      "name": "Marcos Ribeiro",
+      "email": "marcosr@example.com",
+      "password": "ultrasecure123",
+      "reset_token": "9012klmn-8901-2345-f012-345678901234",
+      "cpf": "678.901.234-56",
+      "cell": "967890123",
+      "birthdate": "23/08/1976",
+      "description": "Chef de cozinha com experiência internacional em restaurantes estrelados.",
+      "type": "anunciante",
+      "address": [
+        {
+          "id": "9012lmno-9012-3456-f123-456789012345",
+          "cep": "71020-015",
+          "state": "Distrito Federal",
+          "city": "Brasília",
+          "street": "SQS 204",
+          "number": "Bloco C",
+          "complement": "Apto 308",
+          "userId": "6f7g8h9i-0j1k-2l3m-4n5o-6789012345fg"
+        }
+      ]
+    },
+    {
+      "id": "7g8h9i0j-1k2l-3m4n-5o6p-7890123456gh",
+      "name": "Daniela Sousa",
+      "email": "danielas@example.com",
+      "password": "mypassword456",
+      "reset_token": "0123lmno-0123-4567-8901-567890123456",
+      "cpf": "789.012.345-67",
+      "cell": "978901234",
+      "birthdate": "30/01/1981",
+      "description": "Advogada especializada em direito corporativo e compliance.",
+      "type": "comprador",
+      "address": [
+        {
+          "id": "0123mnop-2345-6789-0123-678901234567",
+          "cep": "88015-200",
+          "state": "Santa Catarina",
+          "city": "Florianópolis",
+          "street": "Rua Deodoro",
+          "number": "200",
+          "complement": "Escritório 220",
+          "userId": "7g8h9i0j-1k2l-3m4n-5o6p-7890123456gh"
+        }
+      ]
+    },
+    {
+      "id": "8h9i0j1k-2l3m-4n5o-6p7q-8901234567hi",
+      "name": "Tiago Gomes",
+      "email": "tiagog@example.com",
+      "password": "loginpassword",
+      "reset_token": "1234mnop-3456-7890-2345-789012345678",
+      "cpf": "890.123.456-78",
+      "cell": "989012345",
+      "birthdate": "19/12/1993",
+      "description": "Médico cardiologista, atuando principalmente em hospitais de grande porte e clínicas especializadas.",
+      "type": "comprador",
+      "address": [
+        {
+          "id": "1234nopq-4567-8901-3456-890123456789",
+          "cep": "49010-100",
+          "state": "Sergipe",
+          "city": "Aracaju",
+          "street": "Avenida Ivo do Prado",
+          "number": "400",
+          "complement": "Clinica Cardiológica",
+          "userId": "8h9i0j1k-2l3m-4n5o-6p7q-8901234567hi"
+        }
+      ]
+    },
+    {
+      "id": "9i0j1k2l-3m4n-5o6p-7q8r-9012345678ij",
+      "name": "Camila Torres",
+      "email": "camilat@example.com",
+      "password": "password789",
+      "reset_token": "2345nopq-5678-9012-4567-901234567890",
+      "cpf": "901.234.567-89",
+      "cell": "990123456",
+      "birthdate": "09/06/1989",
+      "description": "Diretora de arte em uma agência de publicidade, com ênfase em campanhas digitais.",
+      "type": "anunciante",
+      "address": [
+        {
+          "id": "2345opqr-6789-0123-5678-012345678901",
+          "cep": "40010-000",
+          "state": "Bahia",
+          "city": "Salvador",
+          "street": "Avenida Sete de Setembro",
+          "number": "110",
+          "complement": "Studio 202",
+          "userId": "9i0j1k2l-3m4n-5o6p-7q8r-9012345678ij"
+        }
+      ]
+    },
+    {
+      "id": "0j1k2l3m-4n5o-6p7q-8r9s-0123456789jk",
+      "name": "Lucas Rocha",
+      "email": "lucasr@example.com",
+      "password": "simplepass",
+      "reset_token": "3456opqr-8901-2345-6789-123456789012",
+      "cpf": "012.345.678-90",
+      "cell": "991234567",
+      "birthdate": "11/11/1992",
+      "description": "Engenheiro mecânico com foco em projetos de automação industrial.",
+      "type": "comprador",
+      "address": [
+        {
+          "id": "3456pqrs-9012-3456-7890-234567890123",
+          "cep": "66033-640",
+          "state": "Pará",
+          "city": "Belém",
+          "street": "Avenida Nazaré",
+          "number": "580",
+          "complement": "Sala 309",
+          "userId": "0j1k2l3m-4n5o-6p7q-8r9s-0123456789jk"
+        }
+      ]
+    }
+  ],
+  "anouncements": [
+    {
+      "id": "1f4c8680-56af-4272-b5c1-c571315e5c50",
+      "brand": "data.brand",
+      "model": "data.model",
+      "year": 2000,
+      "fuel": "gasolina",
+      "mileage": 30000,
+      "color": "data.color",
+      "priceTabel": 40000,
+      "price": 28000,
+      "description": "data.description",
+      "publish": false,
+      "cover_img": "https://olhardigital.com.br/wp-content/uploads/2022/04/tesla-roadster.webp",
+      "userId": "13cdf36f-86c6-41c6-bc7f-d0128d6e1901",
+      "images": [
+        {
+          "id": "384113fd-67b2-48f5-bb53-af41e176e817",
+          "image_url": "https://olhardigital.com.br/wp-content/uploads/2022/04/tesla-roadster.webp",
+          "anouncementId": "1f4c8680-56af-4272-b5c1-c571315e5c50"
+        }
+      ]
+    },
+    {
+      "id": "290b019f-ecb3-49cb-b228-bd8663a0ce8a",
+      "brand": "Ferrari",
+      "model": "Ferrari F8",
+      "year": 2020,
+      "fuel": "gasolina",
+      "mileage": 10000,
+      "color": "Vermelho",
+      "priceTabel": 60000,
+      "price": 35000,
+      "description": "The F8 Tributo features state-of-the-art aerodynamics, integrating innovations and expertise developed thanks to the company’s involvement in the GT and Challenge championships. The solutions have been honed to create a series-production mid-rear-engined berlinetta with the highest level of performance available.",
+      "publish": true,
+      "cover_img": "https://s2-autoesporte.glbimg.com/IwPsjNpdmqAdcyrHwdioh19bwIE=/0x0:620x413/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2020/A/m/Ibf2ubSIW7appLRiUMCg/2020-05-30-ferrari-f8-tributo-3.jpg",
+      "userId": "13cdf36f-86c6-41c6-bc7f-d0128d6e1901",
+      "images": [
+        {
+          "id": "384113fd-67b2-48f5-bb53-af41e176e817",
+          "image_url": "https://s2-autoesporte.glbimg.com/IwPsjNpdmqAdcyrHwdioh19bwIE=/0x0:620x413/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2020/A/m/Ibf2ubSIW7appLRiUMCg/2020-05-30-ferrari-f8-tributo-3.jpg",
+          "anouncementId": "290b019f-ecb3-49cb-b228-bd8663a0ce8a"
+        },
+        {
+          "id": "44da21c2-91d7-49ec-a6e7-c8be374a89f6",
+          "image_url": "https://img.freepik.com/fotos-premium/uma-ferrari-vermelha-na-garagem_663102-298.jpg",
+          "anouncementId": "290b019f-ecb3-49cb-b228-bd8663a0ce8a"
+        }
+      ]
+    },
+    {
+      "id": "2a5b6789-90cd-4ef0-1234-56789abcdef0",
+      "brand": "BMW",
+      "model": "X5",
+      "year": 2018,
+      "fuel": "diesel",
+      "mileage": 45000,
+      "color": "Preto",
+      "priceTabel": 50000,
+      "price": 35000,
+      "description": "The BMW X5 offers luxurious comfort with high-performance capabilities, making it the perfect SUV for any adventure.",
+      "publish": true,
+      "cover_img": "https://cdn.motor1.com/images/mgl/N7VZ2/s3/bmw-745le-m-sport-dark-edition.jpg",
+      "userId": "13cdf36f-86c6-41c6-bc7f-d0128d6e1901",
+      "images": [
+        {
+          "id": "50123456-7890-12de-3456-7890abcdef12",
+          "image_url": "https://i.pinimg.com/736x/53/5c/9d/535c9d3a62685015cfbd450d78f673c3.jpg",
+          "anouncementId": "2a5b6789-90cd-4ef0-1234-56789abcdef0"
+        },
+        {
+          "id": "60234567-8901-23ef-4567-890abcdef123",
+          "image_url": "https://euromotorsnews.com.br/wp-content/uploads/2020/10/P90403620_highRes_bmw-m4-competition-x-1014x583.jpg",
+          "anouncementId": "2a5b6789-90cd-4ef0-1234-56789abcdef0"
+        }
+      ]
+    },
+    {
+      "id": "3b6c7890-01de-5f12-2345-67890abcdef1",
+      "brand": "Audi",
+      "model": "A4",
+      "year": 2019,
+      "fuel": "gasolina",
+      "mileage": 30000,
+      "color": "Branco",
+      "priceTabel": 45000,
+      "price": 32000,
+      "description": "The Audi A4 is a combination of performance, technology, and luxury, delivering an exceptional driving experience.",
+      "publish": false,
+      "cover_img": "https://s2-autoesporte.glbimg.com/v_A8Y2eOxeuko7i6t2Ow4VAtM8A=/0x0:620x413/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2020/7/F/V4pBzDRUKgwJSJe9udTA/2020-09-21-a205470-medium.jpg",
+      "userId": "13cdf36f-86c6-41c6-bc7f-d0128d6e1901",
+      "images": [
+        {
+          "id": "70345678-9012-34f0-5678-90abcdef1234",
+          "image_url": "https://quatrorodas.abril.com.br/wp-content/uploads/2019/12/qr-674-carro-audi-a3-flex-02.tif_-e1576593978902.jpg?quality=70&strip=info",
+          "anouncementId": "3b6c7890-01de-5f12-2345-67890abcdef1"
+        }
+      ]
+    },
+    {
+      "id": "4c7d8901-12ef-6a23-3456-7890abcdef2",
+      "brand": "Mercedes-Benz",
+      "model": "C-Class",
+      "year": 2020,
+      "fuel": "gasolina",
+      "mileage": 20000,
+      "color": "Cinza",
+      "priceTabel": 55000,
+      "price": 37000,
+      "description": "The Mercedes-Benz C-Class stands out for its elegant design, advanced technology, and superior driving comfort.",
+      "publish": true,
+      "cover_img": "https://s2-autoesporte.glbimg.com/TGC9n574ZzQcWRAcu_MCOYn19_Y=/0x0:620x400/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2020/z/w/e4ch5NTAmWASozHRZzlA/2014-09-22-amg-gt-4.jpg",
+      "userId": "13cdf36f-86c6-41c6-bc7f-d0128d6e1901",
+      "images": [
+        {
+          "id": "80456789-0123-45f1-6789-0abcdef12345",
+          "image_url": "https://cdn.motor1.com/images/mgl/kJL9n/s1/mercedes-benz-cla-250-br.webp",
+          "anouncementId": "4c7d8901-12ef-6a23-3456-7890abcdef2"
+        },
+        {
+          "id": "90567890-1234-56f2-7890-1abcdef123456",
+          "image_url": "https://novo.bocamafrapremium.com.br/wp-content/uploads/2022/05/ebbe42527ad64629b7e66480c49c3496_1646320529864.jpeg?x27100",
+          "anouncementId": "4c7d8901-12ef-6a23-3456-7890abcdef2"
+        }
+      ]
+    },
+    {
+      "id": "5d8e9012-23f0-7b34-4567-890abcdef123",
+      "brand": "Tesla",
+      "model": "Model S",
+      "year": 2021,
+      "fuel": "eletrico",
+      "mileage": 15000,
+      "color": "Azul",
+      "priceTabel": 70000,
+      "price": 60000,
+      "description": "The Tesla Model S redefines electric driving with its impressive range, cutting-edge technology, and breathtaking performance.",
+      "publish": false,
+      "cover_img": "https://www.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/06/15214_F9D941CE78AC2CB4.jpg?w=1024",
+      "userId": "13cdf36f-86c6-41c6-bc7f-d0128d6e1901",
+      "images": [
+        {
+          "id": "a0567890-1234-56f3-7890-1abcdef12345",
+          "image_url": "https://s2-autoesporte.glbimg.com/GpfRKsUEZZl4Rj4qAbmZdXCiPck=/98x56:1448x820/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2021/l/N/fLLBv4RHWGBSSBT18ONQ/novo-tesla-model-x-2021-dianteira.jpg",
+          "anouncementId": "5d8e9012-23f0-7b34-4567-890abcdef123"
+        },
+        {
+          "id": "b1678901-2345-67f4-8901-2abcdef123456",
+          "image_url": "https://quatrorodas.abril.com.br/wp-content/uploads/2021/01/Tesla-Model-S-2021-5.jpeg?quality=70&strip=info&w=720&crop=1",
+          "anouncementId": "5d8e9012-23f0-7b34-4567-890abcdef123"
+        },
+        {
+          "id": "c2789012-3456-78f5-9012-3abcdef1234567",
+          "image_url": "https://pplware.sapo.pt/wp-content/uploads/2019/04/tesla_model_y_05.jpg",
+          "anouncementId": "5d8e9012-23f0-7b34-4567-890abcdef123"
+        }
+      ]
+    },
+    {
+      "id": "6e9f0123-34a1-8c45-5678-90abcdef1234",
+      "brand": "Porsche",
+      "model": "911",
+      "year": 2022,
+      "fuel": "gasolina",
+      "mileage": 10000,
+      "color": "Vermelho",
+      "priceTabel": 80000,
+      "price": 75000,
+      "description": "The Porsche 911 is an iconic sports car known for its extraordinary performance, timeless design, and driving pleasure.",
+      "publish": true,
+      "cover_img": "https://cdn.motor1.com/images/mgl/gWvk4/s1/porsche-911-carrera-s-teste-br.jpg",
+      "userId": "13cdf36f-86c6-41c6-bc7f-d0128d6e1901",
+      "images": [
+        {
+          "id": "d3890123-4567-89f6-0123-4abcdef123456",
+          "image_url": "https://motorshow.com.br/wp-content/uploads/sites/2/2016/09/2_ms399_porsche1.jpg",
+          "anouncementId": "6e9f0123-34a1-8c45-5678-90abcdef1234"
+        },
+        {
+          "id": "e4901234-5678-90f7-1234-5abcdef1234567",
+          "image_url": "https://quatrorodas.abril.com.br/wp-content/uploads/2018/10/20181002_070535-e1538485353954.jpg?quality=70&strip=info",
+          "anouncementId": "6e9f0123-34a1-8c45-5678-90abcdef1234"
+        }
+      ]
+    },
+    {
+      "id": "7fa01234-45b2-9d56-6789-0abcdef12345",
+      "brand": "Lamborghini",
+      "model": "Huracan",
+      "year": 2020,
+      "fuel": "gasolina",
+      "mileage": 8000,
+      "color": "Amarelo",
+      "priceTabel": 90000,
+      "price": 85000,
+      "description": "The Lamborghini Huracan combines luxury and performance in a striking design, offering an exhilarating driving experience.",
+      "publish": false,
+      "cover_img": "https://octane.rent/wp-content/uploads/2022/11/Lamborghini-Yellow-evo-spyder-1.jpg",
+      "userId": "13cdf36f-86c6-41c6-bc7f-d0128d6e1901",
+      "images": [
+        {
+          "id": "f5012345-6789-01f8-2345-6abcdef123456",
+          "image_url": "https://s2-autoesporte.glbimg.com/lP1kOhljhWGlI6PF6Ya5_FYP54c=/0x0:620x400/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2020/V/U/fW0FOXSuecK8nwTVIg0w/2014-05-02-lamborghini3.jpg",
+          "anouncementId": "7fa01234-45b2-9d56-6789-0abcdef12345"
+        }
+      ]
+    },
+    {
+      "id": "8ab12345-56c3-0e67-7890-1abcdef12345",
+      "brand": "McLaren",
+      "model": "720S",
+      "year": 2021,
+      "fuel": "gasolina",
+      "mileage": 5000,
+      "color": "Laranja",
+      "priceTabel": 100000,
+      "price": 95000,
+      "description": "The McLaren 720S stands at the pinnacle of supercar performance, boasting stunning looks and blistering speed.",
+      "publish": true,
+      "cover_img": "https://i0.statig.com.br/bancodeimagens/9g/qc/wm/9gqcwm3dg9n0twzndrfj5uaox.jpg",
+      "userId": "13cdf36f-86c6-41c6-bc7f-d0128d6e1901",
+      "images": [
+        {
+          "id": "g6123456-7890-12f9-3456-7abcdef123456",
+          "image_url": "https://s2-autoesporte.glbimg.com/jAQ64LN9JtrxDLL3Yzoi8rvaxUs=/0x0:2048x1365/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2021/F/K/PrYHKVTi6Jxody3DiZtQ/mclaren-720s-daniel-ricciardo-edition-3-.jpg",
+          "anouncementId": "8ab12345-56c3-0e67-7890-1abcdef12345"
+        },
+        {
+          "id": "h7234567-8901-23f0-4567-8abcdef123456",
+          "image_url": "https://www.chavesnamao.com.br/imn/0640x0400/N/veiculos/101296/2048228/mclaren-720s-4-0-coupe-bi-turbo-v8-2p_1811b2f8669.jpeg",
+          "anouncementId": "8ab12345-56c3-0e67-7890-1abcdef12345"
+        }
+      ]
+    },
+    {
+      "id": "9bc23456-67d4-1f78-8901-2abcdef12345",
+      "brand": "Aston Martin",
+      "model": "DB11",
+      "year": 2019,
+      "fuel": "gasolina",
+      "mileage": 12000,
+      "color": "Verde",
+      "priceTabel": 75000,
+      "price": 70000,
+      "description": "The Aston Martin DB11 epitomizes British luxury and engineering, offering unparalleled elegance and performance.",
+      "publish": false,
+      "cover_img": "https://image1.mobiauto.com.br/images/api/images/v1.0/221345785/transform/fl_progressive,f_webp,q_70,w_600",
+      "userId": "13cdf36f-86c6-41c6-bc7f-d0128d6e1901",
+      "images": [
+        {
+          "id": "i8234567-9012-34f1-5678-9abcdef123456",
+          "image_url": "https://cdn.awsli.com.br/800x800/2571/2571273/produto/210230707/aston-martin-db11-118-autoart-verde-5cd7bdde.jpg",
+          "anouncementId": "9bc23456-67d4-1f78-8901-2abcdef12345"
+        }
+      ]
+    },
+    {
+      "id": "abc34567-78e5-2f89-9012-3abcdef12345",
+      "brand": "Rolls-Royce",
+      "model": "Phantom",
+      "year": 2022,
+      "fuel": "gasolina",
+      "mileage": 5000,
+      "color": "Preto",
+      "priceTabel": 200000,
+      "price": 190000,
+      "description": "The Rolls-Royce Phantom is the ultimate expression of luxury, combining exceptional craftsmanship with unmatched comfort.",
+      "publish": true,
+      "cover_img": "https://img2.icarros.com/dbimg/imgadicionalnoticia/4/113036_1",
+      "userId": "13cdf36f-86c6-41c6-bc7f-d0128d6e1901",
+      "images": [
+        {
+          "id": "j9345678-0123-45f2-6789-0abcdef123456",
+          "image_url": "https://cdn.motor1.com/images/mgl/Ooe94R/s3/rolls-royce-ghost-black-badge-ekleipsis-private-collection.jpg",
+          "anouncementId": "abc34567-78e5-2f89-9012-3abcdef12345"
+        },
+        {
+          "id": "k0456789-1234-56f3-7890-1abcdef123456",
+          "image_url": "https://s2-autoesporte.glbimg.com/KieTPVSjbfJbxMrOzhTMlhh7buY=/0x0:1920x1271/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2021/A/B/cUIEpTQASqltmZYGMGIg/rolls-royce-ghost-black-badge-2021-warehouse-2.jpg",
+          "anouncementId": "abc34567-78e5-2f89-9012-3abcdef12345"
+        }
+      ]
+    },
+    {
+      "id": "bcd45678-89f6-3g90-0123-4abcdef12345",
+      "brand": "Jaguar",
+      "model": "F-Type",
+      "year": 2021,
+      "fuel": "gasolina",
+      "mileage": 7000,
+      "color": "Cinza",
+      "priceTabel": 85000,
+      "price": 80000,
+      "description": "The Jaguar F-Type is a beautifully designed sports car that delivers an exhilarating driving experience with its powerful performance.",
+      "publish": false,
+      "cover_img": "https://rodario.com.br/wp-content/uploads/2020/11/CN171120Brr.jpg",
+      "userId": "13cdf36f-86c6-41c6-bc7f-d0128d6e1901",
+      "images": [
+        {
+          "id": "l1567890-2345-67f4-8901-2abcdef123456",
+          "image_url": "https://revistacarro.com.br/wp-content/uploads/2020/11/Jaguar-F-Type_4.jpg",
+          "anouncementId": "bcd45678-89f6-3g90-0123-4abcdef12345"
+        },
+        {
+          "id": "m2678901-3456-78f5-9012-3abcdef1234567",
+          "image_url": "https://s3.ecompletocarros.dev/images/lojas/285/veiculos/84554/veiculoInfoVeiculoImagesMobile/vehicle_image_1638991115_d41d8cd98f00b204e9800998ecf8427e.jpeg",
+          "anouncementId": "bcd45678-89f6-3g90-0123-4abcdef12345"
+        }
+      ]
+    },
+    {
+      "id": "cde56789-90g7-4h01-2345-6abcdef123456",
+      "brand": "Chevrolet",
+      "model": "Corvette",
+      "year": 2020,
+      "fuel": "gasolina",
+      "mileage": 9000,
+      "color": "Azul",
+      "priceTabel": 70000,
+      "price": 65000,
+      "description": "The Chevrolet Corvette is an American classic, renowned for its powerful performance and sleek design.",
+      "publish": true,
+      "cover_img": "https://cdn.motor1.com/images/mgl/WOL31/0:121:4291:3218/2020-chevrolet-corvette-convertible-exterior.webp",
+      "userId": "13cdf36f-86c6-41c6-bc7f-d0128d6e1901",
+      "images": [
+        {
+          "id": "n3789012-4567-89f6-0123-4abcdef123456",
+          "image_url": "https://i.ytimg.com/vi/ch0fz6LEfPU/maxresdefault.jpg",
+          "anouncementId": "cde56789-90g7-4h01-2345-6abcdef123456"
+        }
+      ]
+    },
+    {
+      "id": "1f4c8680-56af-4272-b5c1-c571315e5c50",
+      "brand": "Volkswagen",
+      "model": "Golf",
+      "year": 2019,
+      "fuel": "Gasolina",
+      "mileage": 25000,
+      "color": "Preto",
+      "priceTabel": 60000,
+      "price": 50000,
+      "description": "Carro em ótimo estado, único dono, todas as revisões em dia.",
+      "publish": false,
+      "cover_img": "https://cdn.motor1.com/images/mgl/XxZyk/s1/manhart-vw-golf-gti-290.jpg",
+      "userId": "13cdf36f-86c6-41c6-bc7f-d0128d6e1901",
+      "images": [
+        {
+          "id": "384113fd-67b2-48f5-bb53-af41e176e817",
+          "image_url": "https://cdn.motor1.com/images/mgl/XxZyk/s1/manhart-vw-golf-gti-290.jpg",
+          "anouncementId": "1f4c8680-56af-4272-b5c1-c571315e5c50"
+        }
+      ]
+    },
+    {
+      "id": "0a26460a-29c9-4d91-b43c-58b692d8fe82",
+      "brand": "Toyota",
+      "model": "Corolla",
+      "year": 2017,
+      "fuel": "Gasolina",
+      "mileage": 30000,
+      "color": "Branco",
+      "priceTabel": 55000,
+      "price": 45000,
+      "description": "Ótimo carro, bem conservado, todas as manutenções em dia.",
+      "publish": false,
+      "cover_img": "https://www.autoo.com.br/fotos/2018/4/1280_960/toyota_corolla_2019_1_02042018_9245_1280_960.jpg",
+      "userId": "13cdf36f-86c6-41c6-bc7f-d0128d6e1901",
+      "images": [
+        {
+          "id": "e2bbf5d1-1c0e-490b-b69c-417ec61f3fa3",
+          "image_url": "https://www.compreblindados.com.br/img/Veiculos/30317/20220207-toyota-corolla-branco-perola-2023736.jpeg",
+          "anouncementId": "0a26460a-29c9-4d91-b43c-58b692d8fe82"
+        }
+      ]
+    },
+    {
+      "id": "20e732e8-75f3-49c4-88cb-381bb85d4fa0",
+      "brand": "Honda",
+      "model": "Fit",
+      "year": 2016,
+      "fuel": "Gasolina",
+      "mileage": 40000,
+      "color": "Prata",
+      "priceTabel": 40000,
+      "price": 35000,
+      "description": "Carro econômico e versátil, ideal para cidade.",
+      "publish": false,
+      "cover_img": "https://www.honda.com.br/automoveis/sites/hab/files/2020-05/honda_fit_2018_dx_basicas_3_4_frontal_a_prata.jpg",
+      "userId": "13cdf36f-86c6-41c6-bc7f-d0128d6e1901",
+      "images": [
+        {
+          "id": "10f480c1-5a93-49e9-a64d-15c34e83030a",
+          "image_url": "https://s3.ecompletocarros.dev/images/lojas/156/veiculos/48968/veiculoInfoVeiculoImagesMobile/vehicle_image_1610041452_c1a4272c66775faf0d920341be7d6f5b.jpeg",
+          "anouncementId": "20e732e8-75f3-49c4-88cb-381bb85d4fa0"
+        }
+      ]
+    },
+    {
+      "id": "b7d179ad-798d-40e8-b44a-f28ab1ae47e7",
+      "brand": "Chevrolet",
+      "model": "Onix",
+      "year": 2020,
+      "fuel": "Gasolina",
+      "mileage": 20000,
+      "color": "Vermelho",
+      "priceTabel": 50000,
+      "price": 45000,
+      "description": "Carro em perfeito estado, baixa quilometragem.",
+      "publish": false,
+      "cover_img": "https://quatrorodas.abril.com.br/wp-content/uploads/2019/12/longa-onix-729-2-e1576780872857.jpg?quality=70&strip=info",
+      "userId": "13cdf36f-86c6-41c6-bc7f-d0128d6e1901",
+      "images": [
+        {
+          "id": "3a8d038d-53a4-45d0-9f8c-084509f8fc20",
+          "image_url": "https://orca.com.br/uploads/products/versions/novo-onix-rs-turbo-2021-vermelho.png",
+          "anouncementId": "b7d179ad-798d-40e8-b44a-f28ab1ae47e7"
+        }
+      ]
+    },
+    {
+      "id": "75a85c33-8b53-4f6d-8249-85b7b314fc4b",
+      "brand": "Ford",
+      "model": "Fiesta",
+      "year": 2018,
+      "fuel": "Flex",
+      "mileage": 35000,
+      "color": "Azul",
+      "priceTabel": 38000,
+      "price": 32000,
+      "description": "Carro econômico e de baixa manutenção.",
+      "publish": false,
+      "cover_img": "https://www.autoo.com.br/fotos/2018/1/960_720/ford_fiesta_2018_1_19012018_8536_960_720.jpg",
+      "userId": "13cdf36f-86c6-41c6-bc7f-d0128d6e1901",
+      "images": [
+        {
+          "id": "f86e70d7-7f55-4475-98e8-4e24c09d5a76",
+          "image_url": "https://s2-autoesporte.glbimg.com/MzWD0s-Q_OKsOarKpLJcuW9utno=/0x0:620x400/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2020/T/F/wkmwlXTJKHlf4HQ1p4QQ/2015-03-05-ford-new-fiesta.jpg",
+          "anouncementId": "75a85c33-8b53-4f6d-8249-85b7b314fc4b"
+        }
+      ]
+    },
+    {
+      "id": "4cfbb7c7-36b3-4ef8-abe2-18e35f6d7c4c",
+      "brand": "Fiat",
+      "model": "Uno",
+      "year": 2015,
+      "fuel": "Flex",
+      "mileage": 40000,
+      "color": "Prata",
+      "priceTabel": 25000,
+      "price": 20000,
+      "description": "Carro compacto e econômico.",
+      "publish": false,
+      "cover_img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3j1Y32wQUfaXF2npXiIIhu-i6UxXEFQfPh0xLroPwH1f14Gsu9kJcG7xDKw8qhe6fvZ-cw5yIcCekmM3WkyKcA12pLewZZZjqaVvdl1iiJ-8scgJPd7bXZswj-sG6_SAbvQRO0B2ytw0/s1600/Fiat-Uno-Vivace-2013-Italia+(2).JPG",
+      "userId": "13cdf36f-86c6-41c6-bc7f-d0128d6e1901",
+      "images": [
+        {
+          "id": "b067c901-d01c-4348-80b6-d11e4876acdc",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaHRwFoK4JhhlsaVkz-vXeyOt6cVKzxVSDew&s",
+          "anouncementId": "4cfbb7c7-36b3-4ef8-abe2-18e35f6d7c4c"
+        }
+      ]
+    },
+    {
+      "id": "ce5c72a2-2c80-4748-803a-bc9c711f54e2",
+      "brand": "Renault",
+      "model": "Kwid",
+      "year": 2020,
+      "fuel": "Flex",
+      "mileage": 15000,
+      "color": "Branco",
+      "priceTabel": 35000,
+      "price": 30000,
+      "description": "Carro compacto e econômico, ideal para uso urbano.",
+      "publish": false,
+      "cover_img": "https://olhardigital.com.br/wp-content/uploads/2022/04/tesla-roadster.webp",
+      "userId": "13cdf36f-86c6-41c6-bc7f-d0128d6e1901",
+      "images": [
+        {
+          "id": "d96e8761-42bc-48d9-8455-530a5cb8410e",
+          "image_url": "https://mkt.carrera.com.br/public/Carrera_RN/kwid__gallery_1_c04.webp",
+          "anouncementId": "ce5c72a2-2c80-4748-803a-bc9c711f54e2"
+        }
+      ]
+    },
+    {
+      "id": "20dfb3e8-06a3-44c6-85f4-8b6fd19989fc",
+      "brand": "Hyundai",
+      "model": "HB20",
+      "year": 2019,
+      "fuel": "Flex",
+      "mileage": 25000,
+      "color": "Prata",
+      "priceTabel": 50000,
+      "price": 45000,
+      "description": "Carro confortável e econômico, ótima opção para família.",
+      "publish": false,
+      "cover_img": "https://s3.sa-east-1.amazonaws.com/revista.mobiauto/Hyundai/HB20/2024/Platinum+Plus/Hyundai+HB20+Platinum+Plus+2024+dianteira+esquerda.jpg",
+      "userId": "13cdf36f-86c6-41c6-bc7f-d0128d6e1901",
+      "images": [
+        {
+          "id": "97f43e2c-4ef7-4c74-9d05-2ed6f21714fb",
+          "image_url": "https://cdn.motor1.com/images/mgl/Kb12xl/s3/hyundai-hb20-2024.jpg",
+          "anouncementId": "20dfb3e8-06a3-44c6-85f4-8b6fd19989fc"
+        }
+      ]
+    },
+    {
+      "id": "d06e069e-7d8f-44e8-bf9e-2ddbf16bf024",
+      "brand": "Jeep",
+      "model": "Renegade",
+      "year": 2017,
+      "fuel": "Diesel",
+      "mileage": 30000,
+      "color": "Preto",
+      "priceTabel": 75000,
+      "price": 70000,
+      "description": "SUV robusto e confortável, ideal para aventuras fora de estrada.",
+      "publish": false,
+      "cover_img": "https://revistacarro.com.br/wp-content/uploads/2022/02/Jeep-Renegade-2022_1.jpg",
+      "userId": "13cdf36f-86c6-41c6-bc7f-d0128d6e1901",
+      "images": [
+        {
+          "id": "f7339a5f-e1d5-4214-9b8f-5172b7fe98ee",
+          "image_url": "https://cdn.motor1.com/images/mgl/pb02WY/s1/4x3/honda-hr-v-touring-vs.-vw-t-cross-highline-vs.-jeep-renegade-s.webp",
+          "anouncementId": "d06e069e-7d8f-44e8-bf9e-2ddbf16bf024"
+        }
+      ]
+    },
+    {
+      "id": "2fa8480b-8603-4ec7-bf8f-8ef21c52a3b7",
+      "brand": "Chevrolet",
+      "model": "Onix",
+      "year": 2021,
+      "fuel": "Flex",
+      "mileage": 10000,
+      "color": "Vermelho",
+      "priceTabel": 60000,
+      "price": 55000,
+      "description": "Carro compacto e moderno, excelente para uso urbano.",
+      "publish": false,
+      "cover_img": "https://i.pinimg.com/originals/62/10/84/6210849f3cc667aa2cc545bd43c1db60.png",
+      "userId": "13cdf36f-86c6-41c6-bc7f-d0128d6e1901",
+      "images": [
+        {
+          "id": "fbf4e998-c251-47ef-8d7a-8f453e527a55",
+          "image_url": "https://www.fidelizamultimarcas.com.br/carros/6beba5b3bb1a63cb22a9f5f05d19ddae-thumbjpeg-chevrolet-onix-8947475-1000-750-70.jpg",
+          "anouncementId": "2fa8480b-8603-4ec7-bf8f-8ef21c52a3b7"
+        }
+      ]
+    },
+    {
+      "id": "147589dc-5ba0-4d06-8ef8-d8209c76b4df",
+      "brand": "Volkswagen",
+      "model": "Gol",
+      "year": 2017,
+      "fuel": "Flex",
+      "mileage": 45000,
+      "color": "Branco",
+      "priceTabel": 30000,
+      "price": 28000,
+      "description": "Carro compacto e econômico, ideal para o dia a dia.",
+      "publish": false,
+      "cover_img": "https://verocar.com.br/wp-content/uploads/2023/07/WhatsApp-Image-2023-07-18-at-15.34.15-2.jpeg",
+      "userId": "13cdf36f-86c6-41c6-bc7f-d0128d6e1901",
+      "images": [
+        {
+          "id": "8a140b11-5aef-4997-bde0-4c3b7b2c0d16",
+          "image_url": "https://verocar.com.br/wp-content/uploads/2023/07/WhatsApp-Image-2023-07-18-at-15.34.13.jpeg",
+          "anouncementId": "147589dc-5ba0-4d06-8ef8-d8209c76b4df"
+        }
+      ]
+    },
+    {
+      "id": "b742f047-d004-45fc-b4db-18bbd61739a8",
+      "brand": "Toyota",
+      "model": "Corolla",
+      "year": 2019,
+      "fuel": "Flex",
+      "mileage": 20000,
+      "color": "Prata",
+      "priceTabel": 70000,
+      "price": 65000,
+      "description": "Sedã espaçoso e confortável, ótima opção para viagens em família.",
+      "publish": false,
+      "cover_img": "https://revistacarro.com.br/wp-content/uploads/2019/12/Toyota-Corolla-XEi_4.jpg",
+      "userId": "13cdf36f-86c6-41c6-bc7f-d0128d6e1901",
+      "images": [
+        {
+          "id": "bc3d0313-82ee-46c2-a7e8-6ab9b148b2cf",
+          "image_url": "https://revistacarro.com.br/wp-content/uploads/2019/12/Toyota-Corolla-XEi_4.jpg",
+          "anouncementId": "b742f047-d004-45fc-b4db-18bbd61739a8"
+        }
+      ]
+    },
+    {
+      "id": "da0537b2-86c3-465f-8fa2-86a50ad4d7e0",
+      "brand": "Honda",
+      "model": "Civic",
+      "year": 2020,
+      "fuel": "Flex",
+      "mileage": 18000,
+      "color": "Preto",
+      "priceTabel": 80000,
+      "price": 75000,
+      "description": "Sedã esportivo e elegante, com excelente desempenho.",
+      "publish": false,
+      "cover_img": "https://cdn.motor1.com/images/mgl/mBrOo/s1/honda-civic-exl-2020.webp",
+      "userId": "13cdf36f-86c6-41c6-bc7f-d0128d6e1901",
+      "images": [
+        {
+          "id": "f6decb29-b63d-4f2d-a8e3-3f0dbf4e60bb",
+          "image_url": "https://cdn.motor1.com/images/mgl/mBrOo/s1/honda-civic-exl-2020.webp",
+          "anouncementId": "da0537b2-86c3-465f-8fa2-86a50ad4d7e0"
+        }
+      ]
+    },
+    {
+      "id": "ea300a1d-7a50-458e-b6f7-2a2f23988c35",
+      "brand": "Hyundai",
+      "model": "Creta",
+      "year": 2018,
+      "fuel": "Flex",
+      "mileage": 30000,
+      "color": "Branco",
+      "priceTabel": 75000,
+      "price": 70000,
+      "description": "SUV moderno e confortável, ideal para famílias grandes.",
+      "publish": false,
+      "cover_img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjx6Fud_y6EE3e15MG5YXQzSEI47-kb1lMiNVh541fHN2-szoO5gIcCEYfwcIFhSbDU3iOFYn3A487leiCwkVdwtDrqIvF7ofqJ1UJL4ApsWEKNIXRXo3xHOY9Q3_xvU_4ba2y6r5aU44qB/s1600/Prestige_09.jpg",
+      "userId": "13cdf36f-86c6-41c6-bc7f-d0128d6e1901",
+      "images": [
+        {
+          "id": "3983b1b5-38c5-4c95-9777-0aa53c8d6c92",
+          "image_url": "https://media.gazetadopovo.com.br/2019/07/02202855/hyundai-creta-suv-2020-13-660x372.jpg",
+          "anouncementId": "ea300a1d-7a50-458e-b6f7-2a2f23988c35"
+        }
+      ]
+    },
+    {
+      "brand": "Renault",
+      "model": "Stepway",
+      "year": 2020,
+      "fuel": "gasolina",
+      "mileage": 100000,
+      "color": "Preto",
+      "priceTabel": 50000,
+      "description": "O Renault Stepway está disponível em 3 versões: Zen com transmissão manual, Intense e Iconic com transmissão CVT. Todas com motor 1.6 de 118 cavalos e 15,9 kgfm de torque.",
+      "publish": true,
+      "cover_img": "https://brfrance.com.br/uploads/products/versions/colors/renault-sandero-stepway-preto-nacre.png",
+      "price": 81000,
+      "userId": "13cdf36f-86c6-41c6-bc7f-d0128d6e1901",
+      "images": [
+        {
+          "id": "912888b6-7a2a-4d8b-a849-d6c1071097ce",
+          "image_url": "https://s3.ecompletocarros.dev/images/lojas/150/veiculos/57321/veiculoInfoVeiculoImagesMobile/vehicle_image_1618402412_4734a53f2bc87ec0b3ad41ee50872843.jpeg",
+          "anouncementId": "ea300a1d-7a50-458e-b6f7-2a2f23988c35"
+        }
+        
+      ]
+    }
+  ],
+  "comments": [
+    {
+      "id": "ecf401c1-0a23-4e3a-a938-010001a1b2c3",
+      "comment": "Qual é a quilometragem atual do carro?",
+      "commentDate": "2023-09-15T14:25:36.679Z",
+      "userId": "13cdf36f-86c6-41c6-bc7f-d0128d6e1901",
+      "anouncementId": "ce5c72a2-2c80-4748-803a-bc9c711f54e2"
+    },
+    {
+      "id": "001a234b-567c-89d0-e123-456789abcdef",
+      "comment": "O carro já passou por alguma revisão recentemente?",
+      "commentDate": "2023-09-15T15:30:20.679Z",
+      "userId": "13cdf36f-86c6-41c6-bc7f-d0128d6e1901",
+      "anouncementId": "ce5c72a2-2c80-4748-803a-bc9c711f54e2"
+    },
+    {
+      "id": "002b345c-678d-90e1-f234-567890abcdef",
+      "comment": "O carro tem histórico de acidentes?",
+      "commentDate": "2023-09-15T16:45:10.679Z",
+      "userId": "13cdf36f-86c6-41c6-bc7f-d0128d6e1901",
+      "anouncementId": "1f4c8680-56af-4272-b5c1-c571315e5c50"
+    },
+    {
+      "id": "003c456d-789e-01f2-3456-7890abcdef12",
+      "comment": "Qual é o estado dos pneus?",
+      "commentDate": "2023-09-15T17:10:55.679Z",
+      "userId": "13cdf36f-86c6-41c6-bc7f-d0128d6e1901",
+      "anouncementId": "290b019f-ecb3-49cb-b228-bd8663a0ce8a"
+    },
+    {
+      "id": "004d567e-890f-12a3-4567-890abcdef123",
+      "comment": "O carro está com todas as revisões em dia?",
+      "commentDate": "2023-09-15T18:25:40.679Z",
+      "userId": "13cdf36f-86c6-41c6-bc7f-d0128d6e1901",
+      "anouncementId": "2a5b6789-90cd-4ef0-1234-56789abcdef0"
+    },
+    {
+      "id": "005e678f-901a-23b4-5678-901abcdef234",
+      "comment": "Qual é a cor original do carro?",
+      "commentDate": "2023-09-15T19:40:25.679Z",
+      "userId": "13cdf36f-86c6-41c6-bc7f-d0128d6e1901",
+      "anouncementId": "3b6c7890-01de-5f12-2345-67890abcdef1"
+    },
+    {
+      "id": "006f7890-012b-34c5-6789-012abcdef345",
+      "comment": "O carro tem ar-condicionado?",
+      "commentDate": "2023-09-15T20:55:15.679Z",
+      "userId": "13cdf36f-86c6-41c6-bc7f-d0128d6e1901",
+      "anouncementId": "ce5c72a2-2c80-4748-803a-bc9c711f54e2"
+    },
+    {
+      "id": "007g8901-123c-45d6-7890-123abcdef456",
+      "comment": "O carro possui manual e chave reserva?",
+      "commentDate": "2023-09-15T21:10:55.679Z",
+      "userId": "13cdf36f-86c6-41c6-bc7f-d0128d6e1901",
+      "anouncementId": "1f4c8680-56af-4272-b5c1-c571315e5c50"
+    },
+    {
+      "id": "008h9012-234d-56e7-8901-234abcdef567",
+      "comment": "Qual é a motorização do carro?",
+      "commentDate": "2023-09-15T22:25:45.679Z",
+      "userId": "13cdf36f-86c6-41c6-bc7f-d0128d6e1901",
+      "anouncementId": "290b019f-ecb3-49cb-b228-bd8663a0ce8a"
+    },
+    {
+      "id": "009i0123-345e-67f8-9012-345abcdef678",
+      "comment": "O carro tem garantia de fábrica?",
+      "commentDate": "2023-09-15T23:40:35.679Z",
+      "userId": "13cdf36f-86c6-41c6-bc7f-d0128d6e1901",
+      "anouncementId": "2a5b6789-90cd-4ef0-1234-56789abcdef0"
+    },
+    {
+      "id": "010j1234-456f-78g9-0123-456abcdef789",
+      "comment": "Qual é o ano de fabricação do carro?",
+      "commentDate": "2023-09-16T00:55:25.679Z",
+      "userId": "13cdf36f-86c6-41c6-bc7f-d0128d6e1901",
+      "anouncementId": "3b6c7890-01de-5f12-2345-67890abcdef1"
+    },
+    {
+      "id": "011k2345-567g-89h0-1234-567abcdef890",
+      "comment": "O carro tem bancos de couro?",
+      "commentDate": "2023-09-16T02:10:15.679Z",
+      "userId": "13cdf36f-86c6-41c6-bc7f-d0128d6e1901",
+      "anouncementId": "ce5c72a2-2c80-4748-803a-bc9c711f54e2"
+    },
+    {
+      "id": "012l3456-678h-90i1-2345-678abcdef901",
+      "comment": "O carro tem teto solar?",
+      "commentDate": "2023-09-16T03:25:05.679Z",
+      "userId": "13cdf36f-86c6-41c6-bc7f-d0128d6e1901",
+      "anouncementId": "1f4c8680-56af-4272-b5c1-c571315e5c50"
+    },
+    {
+      "id": "013m4567-789i-01j2-3456-789abcdef012",
+      "comment": "O carro possui controle de estabilidade?",
+      "commentDate": "2023-09-16T04:40:55.679Z",
+      "userId": "13cdf36f-86c6-41c6-bc7f-d0128d6e1901",
+      "anouncementId": "290b019f-ecb3-49cb-b228-bd8663a0ce8a"
+    },
+    {
+      "id": "014n5678-890j-12k3-4567-890abcdef123",
+      "comment": "Qual é a configuração de tração do carro?",
+      "commentDate": "2023-09-16T05:55:45.679Z",
+      "userId": "13cdf36f-86c6-41c6-bc7f-d0128d6e1901",
+      "anouncementId": "2a5b6789-90cd-4ef0-1234-56789abcdef0"
+    }
+  ]
+}
