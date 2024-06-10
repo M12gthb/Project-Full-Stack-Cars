@@ -15,5 +15,10 @@
     },
     "author": "Matheus Barros",
     "license": "ISC",
-    "description": "Api gerenciamento de um site de catálogo de vaículos."
+    "description": "Api gerenciamento de um site de catálogo de vaículos.",
+    "devDependencies": {
+        "@eslint/js": "^9.4.0",
+        "eslint": "^9.4.0",
+        "globals": "^15.4.0"
+    }
 }
